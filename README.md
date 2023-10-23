@@ -38,8 +38,7 @@ This project will be developed to solve the problem that is surrounding the craf
   -Geolocation-Based Event Calendar
   -Search Functionality
   -Geolocation Integration
-  -Limitations
-    +Users are only allowed to post content or do live streaming that is related to handcraft.
+  -Users are only allowed to post content or do live streaming that is related to handcraft.
 
 ### Significance 
 1. Users can post & search any handicraft content by category.
