@@ -7,7 +7,9 @@ HUSNA BINTI AHMAD FUAD
 
 Nowadays, people live in a world where everything is at your fingertips. People can be aware of everything that occurs around them with a live stream feature. It is not an unfamiliar feature for a mobile application. Certain people love to be provided with updated pieces of information as they can (research). On the other hand, some people are not comfortable with this feature. It makes them feel overwhelmed with all the information. (research). 
 
-Handcraft is a national activity and people around the world love to engage with it for different reasons. People tend to do it for sale, as a hobby, as gifts for others and personal enjoyment. There are various types of handcraft activities such as pottery, crochet and basket weaving. (research). Handcrafted product is also a hot item… People have difficulty finding a local artisan that provides a service to make a craft that is custom by the customers themselves. To make it specific, customer loves to buy craft product from the nearest seller in their area. 
+Handcraft is a national activity and people around the world love to engage with it for different reasons. People tend to do it for sale, as a hobby, as gifts for others and personal enjoyment. There are various types of handicraft activities such as pottery, crochet and basket weaving. (research). In today's market, handcrafted products are a hot item… People have difficulty finding a local artisan that provides a service to make a craft that is custom by the customers themselves. To make it specific, customers love to buy craft products from the nearest seller in their area. 
+
+This project will be developed to solve the problem that is surrounding the crafter. The mobile application can provide users with content about handcraft things. In addition, the contents that will be shown to the user is based on user preferences. If the user is someone who loves to do embroidery, her content would likely be related to embroidery things. This application can also provide the user the location of the local artisan in the area. 
 
 
 	
